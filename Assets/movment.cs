@@ -26,7 +26,8 @@ public class movment : MonoBehaviour {
 		GetComponent<Rigidbody2D>().AddTorque(lSteering * steering * -0.2f);
 
 		// apply car movement
-		GetComponent<Rigidbody2D>().AddForce(transform.right * lAcceleration * acceleration * 50.0f);
+		GetComponent<Rigidbody2D>().AddForce(transform.up * lAcceleration * acceleration * 50.0f);
+		//GetComponent<Rigidbody2D>().AddForce(transform.right * lSteering * acceleration * 50.0f);
 
 	}
 }
