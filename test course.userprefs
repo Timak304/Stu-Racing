@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\movment.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TitleMenu.cs">
     <Files>
-      <File FileName="Assets\movment.cs" Line="30" Column="5" />
+      <File FileName="Assets\movment.cs" Line="1" Column="1" />
       <File FileName="Assets\camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\TitleMenu.cs" Line="23" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
